@@ -7,4 +7,4 @@ Node 1: Gemini AI (The Writer)
 Node 2: Gemini AI (The Critic/Eval)
 Logic Gate: The Judge (>= 8 score routing)
 Output: Gmail API (Delivery)
-What I Learned / Trade-offs: Mention the infinite loop constraint you ran into and how you managed state/data flow between nodes. (They love when you talk about trade-offs and failures).
+What I Learned / Trade-offs: Mention the infinite loop constraint you ran into and how you managed state/data flow between nodes. 
